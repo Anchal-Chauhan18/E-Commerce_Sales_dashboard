@@ -1,6 +1,5 @@
 # 🛒 E-Commerce Sales Analysis Dashboard
 **Power BI | Advanced Excel | Power Query | DAX**
-
 ---
 
 <p align="center">
@@ -21,7 +20,6 @@ Built an interactive Power BI dashboard to analyze **$24M in Revenue** and **$14
 
 ## 📊 Dashboard Preview
 ![E-Commerce Dashboard](ecommerse_sale_profit_analysis_dashboard.png)
-*(Upload your screenshot as 'dashboard_preview.png' to show it here)*
 
 ## 📈 Key Results
 * **Top States:** Identified **Delhi and Rajasthan** as highest revenue contributors.
