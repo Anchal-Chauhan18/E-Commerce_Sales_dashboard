@@ -35,6 +35,6 @@ Built an interactive Power BI dashboard to analyze **$24M in Revenue** and **$14
 
 ## 📫 Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anchal-chauhan-4b40761b0/)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anchalchauhan9458@gmail.com)
 
 ---
