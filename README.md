@@ -19,7 +19,7 @@ Built an interactive Power BI dashboard to analyze **$24M in Revenue** and **$14
 `Customer ID` | `Product Category` | `Region` | `State` | `Gender` | `Payment Method` | `Quantity` | `Profit`
 
 ## 📊 Dashboard Preview
-![E-Commerce Dashboard](ecommerse_sale_profit_analysis_dashboard.png)
+![E-Commerce Dashboard](Dashboard.png)
 
 ## 📈 Key Results
 * **Top States:** Identified **Delhi and Rajasthan** as highest revenue contributors.
