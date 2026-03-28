@@ -20,7 +20,7 @@ Built an interactive Power BI dashboard to analyze **$24M in Revenue** and **$14
 `Customer ID` | `Product Category` | `Region` | `State` | `Gender` | `Payment Method` | `Quantity` | `Profit`
 
 ## 📊 Dashboard Preview
-![E-Commerce Dashboard](ecommerse_sale_profit_analysis.png)
+![E-Commerce Dashboard](ecommerse_sale_profit_analysis_dashboard.png)
 *(Upload your screenshot as 'dashboard_preview.png' to show it here)*
 
 ## 📈 Key Results
